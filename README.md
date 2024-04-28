@@ -1,7 +1,7 @@
 # Hybrid E-Commerce Framework
 
 ## Overview
-Inspired by Rahul Shetty's course of Selenium, developed an end to end Hybrid Framework for an e-commerce application.
+Inspired by Rahul Shetty's Udemy course in Selenium, developed an end-to-end Hybrid Framework for an e-commerce application.
 
 ## Key Features
 
